@@ -678,6 +678,13 @@ json-parse-even-better-errors@^2.3.0:
     doublearray "0.0.2"
     zlibjs "^0.3.1"
 
+kuromoji@mikob/kuromoji.js#no-gzip:
+  version "0.1.2"
+  resolved "https://codeload.github.com/mikob/kuromoji.js/tar.gz/310e88ef95f33256b278bf1c86cb9197f9cecacb"
+  dependencies:
+    async "^2.0.1"
+    doublearray "0.0.2"
+
 lines-and-columns@^1.1.6:
   version "1.1.6"
   resolved "https://registry.yarnpkg.com/lines-and-columns/-/lines-and-columns-1.1.6.tgz#1c00c743b433cd0a4e80758f7b64a57440d9ff00"
