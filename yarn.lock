@@ -670,17 +670,9 @@ json-parse-even-better-errors@^2.3.0:
   resolved "https://registry.yarnpkg.com/json-parse-even-better-errors/-/json-parse-even-better-errors-2.3.1.tgz#7c47805a94319928e05777405dc12e1f7a4ee02d"
   integrity sha512-xyFwyhro/JEof6Ghe2iz2NcXoj2sloNsWr/XsERDK/oiPCfaNhl5ONfp+jQdAZRQQ0IJWNzH9zIZF7li91kh2w==
 
-"kuromoji@https://github.com/qqhann/kuromoji.js":
+kuromoji@CommentScreen/kuromoji.js#no-gzip:
   version "0.1.2"
-  resolved "https://github.com/qqhann/kuromoji.js#0e46b467135750b7562a5c244b03814aca42aaf2"
-  dependencies:
-    async "^2.0.1"
-    doublearray "0.0.2"
-    zlibjs "^0.3.1"
-
-kuromoji@mikob/kuromoji.js#no-gzip:
-  version "0.1.2"
-  resolved "https://codeload.github.com/mikob/kuromoji.js/tar.gz/310e88ef95f33256b278bf1c86cb9197f9cecacb"
+  resolved "https://codeload.github.com/CommentScreen/kuromoji.js/tar.gz/892df6e2c50335d9e983aca94f2791f024cbb354"
   dependencies:
     async "^2.0.1"
     doublearray "0.0.2"
@@ -1448,8 +1440,3 @@ yocto-queue@^0.1.0:
   version "0.1.0"
   resolved "https://registry.yarnpkg.com/yocto-queue/-/yocto-queue-0.1.0.tgz#0294eb3dee05028d31ee1a5fa2c556a6aaf10a1b"
   integrity sha512-rVksvsnNCdJ/ohGc6xgPwyN8eheCxsiLM8mxuE/t/mOVqJewPuO1miLpTHQiRgTKCLexL4MeAFVagts7HmNZ2Q==
-
-zlibjs@^0.3.1:
-  version "0.3.1"
-  resolved "https://registry.yarnpkg.com/zlibjs/-/zlibjs-0.3.1.tgz#50197edb28a1c42ca659cc8b4e6a9ddd6d444554"
-  integrity sha1-UBl+2yihxCymWcyLTmqd3W1ERVQ=
