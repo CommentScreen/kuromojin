@@ -670,7 +670,7 @@ json-parse-even-better-errors@^2.3.0:
   resolved "https://registry.yarnpkg.com/json-parse-even-better-errors/-/json-parse-even-better-errors-2.3.1.tgz#7c47805a94319928e05777405dc12e1f7a4ee02d"
   integrity sha512-xyFwyhro/JEof6Ghe2iz2NcXoj2sloNsWr/XsERDK/oiPCfaNhl5ONfp+jQdAZRQQ0IJWNzH9zIZF7li91kh2w==
 
-kuromoji@CommentScreen/kuromoji.js#no-gzip:
+kuromoji@CommentScreen/kuromoji.js#892df6e2c50335d9e983aca94f2791f024cbb354:
   version "0.1.2"
   resolved "https://codeload.github.com/CommentScreen/kuromoji.js/tar.gz/892df6e2c50335d9e983aca94f2791f024cbb354"
   dependencies:
